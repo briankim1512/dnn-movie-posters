@@ -68,4 +68,4 @@ model = Sequential([
 opt = keras.optimizers.rmsprop(lr=0.0001, decay=1e-6)
 ```
 
-You can change this accordingly
+If you wish to change the number of epochs the training goes through, you can do so by changing it in `__main__.py` on line `6`
