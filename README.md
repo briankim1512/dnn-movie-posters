@@ -44,7 +44,8 @@ python3 tests.py
 
 ## Config
 
-The configuration for the network can be found on line `60` and looks as follows
+The configuration for the network can be found on line `60` to line `77` from the file `movies_genre_model.py`
+The config is represented below.
 
 ```python
 model = Sequential([
