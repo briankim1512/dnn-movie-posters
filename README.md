@@ -29,7 +29,7 @@ To install the python requirements, simply run the following command whilst in t
 ### Get posters data
 * Use flag `-download` to download the posters from Amazon (based on the URLs provided in MovieGenre.csv)
 * Use flag `-resize` to create smaller posters (30%, 40%, etc)
-* Use parameter `-min_year=1980` to filter out the oldest movies
+* Use parameter `-min_year=2000` to filter out the oldest movies
 ```
 python3 get_data.py -download -resize
 ```
