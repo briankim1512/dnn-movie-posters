@@ -19,6 +19,7 @@ The implementation is based on Keras and TensorFlow.
     * h5py 2.7.1
 
 To install the linux requirement (imagemagick) run this command in the terminal
+
 ```apt install imagemagick```
 
 To install the python requirements, simply run the following command whilst in the repo folder
