@@ -33,6 +33,7 @@ To install the python requirements, simply run the following command whilst in t
 ```
 python3 get_data.py -download -resize
 ```
+:warning: **This process will take a long time! Up to an hour depending on network speed!**
 
 ## Training & Testing
 
