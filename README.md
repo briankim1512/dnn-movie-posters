@@ -9,13 +9,19 @@ The implementation is based on Keras and TensorFlow.
 ## Installation
 
 ### Requirements
+- Linux
+* imagemagick
+- Python
 * Python 3.5
 * [tensorflow 1.5.0](https://www.tensorflow.org/install/install_linux#InstallingVirtualenv)
 * [Keras 2.1.4](https://keras.io/#installation)
 * pandas 0.22.0
 * h5py 2.7.1
 
-To install these requirements, simply run the following command whilst in the repo folder
+To install the linux requirement (imagemagick) run this command in the terminal
+```apt install imagemagick```
+
+To install the python requirements, simply run the following command whilst in the repo folder
 
 ```pip install -r requirements.txt```
 
