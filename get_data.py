@@ -6,7 +6,7 @@ import movies_dataset as movies
 download = '-download' in sys.argv
 resize = '-resize' in sys.argv
 
-min_year = 0
+min_year = 2015
 for arg in sys.argv:
     if arg.startswith('-min_year='):
         min_year = int(arg.split('=')[1])
