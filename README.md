@@ -24,7 +24,7 @@ To install the linux requirement (imagemagick) run this command in the terminal
 
 To install the python requirements, simply run the following command whilst in the repo folder
 
-```pip install -r requirements.txt```
+```conda install --file requirements.txt```
 
 ### Get posters data
 * Use flag `-download` to download the posters from Amazon (based on the URLs provided in MovieGenre.csv)
